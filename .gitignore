@@ -1,0 +1,26 @@
+# Dataset & gambar
+data/
+images/
+cat_dog/
+
+# Model & artefak hasil training
+*.h5
+*.keras
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.safetensors
+
+# Notebook & runtime
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
