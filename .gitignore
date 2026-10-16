@@ -2,6 +2,7 @@
 data/
 images/
 cat_dog/
+Clustering_Stok/
 
 # Model & artefak hasil training
 *.h5
